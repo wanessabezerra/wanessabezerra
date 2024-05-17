@@ -2,7 +2,7 @@
 
 ###
 
-[![Linkedin Badge](https://img.shields.io/badge/-wanessabezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanessa-bezerra/)](https://https://www.linkedin.com/in/wanessa-bezerra/)
+[![Linkedin Badge](https://img.shields.io/badge/-wanessabezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanessa-bezerra/)](https://www.linkedin.com/in/wanessa-bezerra/)
 [![Gmail Badge](https://img.shields.io/badge/-wanessaparelhas68@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanessaparelhas68@gmail.com)](mailto:wanessaparelhas68@gmail.com) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wanessabezerra.wanessabezerra&"/>
 
 <h3 align="left">👩‍💻 About me</h3>
