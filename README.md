@@ -3,8 +3,7 @@
 ###
 
 [![Linkedin Badge](https://img.shields.io/badge/-wanessabezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanessa-bezerra/)](https://www.linkedin.com/in/wanessa-bezerra/)
-[![Gmail Badge](https://img.shields.io/badge/-wanessaparelhas68@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanessaparelhas68@gmail.com)](mailto:wanessaparelhas68@gmail.com) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wanessabezerra.wanessabezerra&"/> <img src="https://wakatime.com/badge/user/page_id=wanessabezerra.wanessabezerra&" alt="waka" />
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wanessabezerra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2)](https://github.com/wanessabezerra/wanessabezerra)
+[![Gmail Badge](https://img.shields.io/badge/-wanessaparelhas68@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanessaparelhas68@gmail.com)](mailto:wanessaparelhas68@gmail.com) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wanessabezerra.wanessabezerra&"/> 
 
 <h3 align="left">👩‍💻 About me</h3>
 
